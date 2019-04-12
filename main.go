@@ -31,7 +31,7 @@ import (
 	"github.com/OJ/gobuster/gobusterdir"
 	"github.com/OJ/gobuster/gobusterdns"
 	"github.com/OJ/gobuster/libgobuster"
-	"golang.org/x/crypto/ssh/terminal"
+	"github.com/golang/crypto/ssh/terminal"
 )
 
 func ruler() {
